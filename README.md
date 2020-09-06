@@ -3,7 +3,7 @@ Epub.js 阅读器
 
 ![Demo](http://fchasen.com/futurepress/epubjs-reader_moby-dick.png)
 
-[Try it while reading Moby Dick](http://futurepress.github.com/epubjs-reader/)
+[预览地址](http://futurepress.github.com/epubjs-reader/)
 
 关于这个阅读器
 -------------------------
